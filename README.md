@@ -7,7 +7,7 @@ Tools :
 - Python
 - Selenium
 
-# =======================================
+# ===================================
 
 # **INISIALISASI DAN IMPORT MODULE**
 
