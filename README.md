@@ -15,14 +15,9 @@ Tools :
 !python --version
 ```
 
-    Python 3.12.3
-
 ```python
 !apt-get update
 ```
-
-    'apt-get' is not recognized as an internal or external command,
-    operable program or batch file.
 
 ```python
 !pip install selenium
